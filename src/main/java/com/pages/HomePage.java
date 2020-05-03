@@ -1,4 +1,4 @@
-//author Yogesh Thakur
+//author Yogesh
 package com.pages;
 
 public class HomePage {
