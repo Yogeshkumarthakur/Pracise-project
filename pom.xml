@@ -10,7 +10,12 @@
   <name>GitPractise</name>
   <url>http://maven.apache.org</url>
 
+<<<<<<< HEAD
 
+=======
+	
+	
+>>>>>>> 54e2ae0220c13f56888aae312a3bb450189296c8
 <build>
 	<plugins>
 		<plugin>
@@ -23,9 +28,15 @@
 		</plugin>
 	</plugins>
 </build>
+<<<<<<< HEAD
 
 
 
+=======
+	
+	
+	
+>>>>>>> 54e2ae0220c13f56888aae312a3bb450189296c8
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
